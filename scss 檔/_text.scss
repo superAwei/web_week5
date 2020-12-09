@@ -1,0 +1,25 @@
+.text-info-xs{
+    font: normal normal normal 14px/21px Lato;
+}
+
+.text-info-s{
+    font: normal normal normal 12px/24px Lato;
+    color:$text-black;
+}
+.text-info-m{
+   font: normal normal bold 16px/24px Lato;
+   color:$text-black;
+
+}
+
+.text-info-x{
+    font: normal normal bold 24px/33px Lato;
+    color:$text-black;
+}
+
+.text-mark{
+    color:$dark_green;
+    background-color: #EDF4EE;
+    padding:3px;
+}
+

@@ -1,0 +1,50 @@
+
+
+// *{
+//   outline: 1px solid #222;
+// }
+
+// 引入自己定義的 scss
+@import "variable";
+@import "main";
+@import "text";
+@import "color";
+
+
+
+.col-3{
+  background-color:$light_green;
+  padding: 32px;
+}
+
+.nav{
+  height: 626px;
+}
+
+.nav li{
+  margin-bottom: 29px;
+}
+
+.nav a{
+  font-size: 16px;
+  text-decoration: none;
+  color: $text-black;
+  font: normal normal bold 16px/24px Lato;
+}
+.nav li:hover{
+  color: $dark_green;
+}
+.nav a:hover{
+  color: $dark_green;
+}
+
+.nav span{
+  margin-right: 16px;
+}
+
+.profile-img{
+  width: 40px;
+  height: 40px;
+  border-radius:50%;
+}
+

@@ -1,0 +1,96 @@
+.border-main {
+  border: 1px solid #CDDDCD; }
+
+.a-none {
+  text-decoration: none;
+  color: #121212; }
+
+.logo-img {
+  width: 150px;
+  height: 40px;
+  display: block;
+  text-indent: 101%;
+  overflow: hidden;
+  white-space: nowrap; }
+
+.img-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%; }
+
+.download {
+  width: 176px;
+  height: 40px;
+  background: #EDF4EE;
+  border: 1px solid #CDDDCD; }
+
+.custom__btn-size {
+  width: 112px;
+  height: 35px; }
+
+.btn-green {
+  background-color: #2A8356;
+  color: #fff; }
+
+.btn-outline-green {
+  border: 1px solid #2A8356;
+  color: #2A8356; }
+
+.photo-img {
+  width: 141px;
+  height: 141px; }
+
+.text-info-xs {
+  font: normal normal normal 14px/21px Lato; }
+
+.text-info-s {
+  font: normal normal normal 12px/24px Lato;
+  color: #121212; }
+
+.text-info-m {
+  font: normal normal bold 16px/24px Lato;
+  color: #121212; }
+
+.text-info-x {
+  font: normal normal bold 24px/33px Lato;
+  color: #121212; }
+
+.text-mark {
+  color: #2A8356;
+  background-color: #EDF4EE;
+  padding: 3px; }
+
+.bg-green {
+  background-color: #EDF4EE; }
+
+.col-3 {
+  background-color: #EDF4EE;
+  padding: 32px; }
+
+.nav {
+  height: 626px; }
+
+.nav li {
+  margin-bottom: 29px; }
+
+.nav a {
+  font-size: 16px;
+  text-decoration: none;
+  color: #121212;
+  font: normal normal bold 16px/24px Lato; }
+
+.nav li:hover {
+  color: #2A8356; }
+
+.nav a:hover {
+  color: #2A8356; }
+
+.nav span {
+  margin-right: 16px; }
+
+.profile-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%; }
+
+/*# sourceMappingURL=all.css.map */

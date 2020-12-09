@@ -1,0 +1,53 @@
+.border-main{
+    border:1px solid $border_green;
+}
+
+.a-none{
+   text-decoration:none;
+   color:$text-black;
+}
+//文字取代 logo
+.logo-img{
+    width: 150px;
+    height: 40px;
+    display: block;
+    text-indent: 101%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+// 大頭照 CSS
+.img-icon{
+    width: 40px;
+    height: 40px;
+    border-radius:50%;
+}
+
+// 下載檔案按鈕
+.download{
+    width: 176px;
+    height: 40px;
+    background:$light_green;
+    border:1px solid $border_green;
+}
+
+//按鈕樣式
+.custom__btn-size{
+    width: 112px;
+    height: 35px;
+}
+
+.btn-green{
+    background-color: $dark_green;
+    color:#fff;
+}
+.btn-outline-green{
+   border:1px solid $dark_green;
+   color:$dark_green;
+}
+
+// 互動視窗照片尺寸
+.photo-img{
+    width: 141px;
+    height: 141px;
+}
